@@ -1,0 +1,103 @@
+﻿SL NO,Department,SERVICE NAME,PKGs Days,Stnd,SP,Pvt,Pvt Dlx,Dlx,Suite,M Suite
+1,Cath Lab,DIGITAL SUBTRACTION ANGIOGRAPHY (DSA) (PACKAGE),1,"26,400","35,200","46,200",In Actuals,In Actuals,In Actuals,In Actuals
+2,Cath Lab,FRACTIONAL FLOW RESERVE - FFR (PACKAGE),1,"66,000","82,500","103,400","96,800","162,800","204,600","256,300"
+3,Cath Lab,INTRA VASCULAR ULTRASOUND(IVUS) (PACKAGE) (NEW),1,"99,000","121,000","137,500","154,000","176,000","220,000","275,000"
+4,Cath Lab,BALLOON VALVOPLASTY (PACKAGE) (NEW),2,"115,500","137,500","163,900","194,700","232,100","276,100","328,900"
+5,Cath Lab,PERIPHERAL ANGIOGRAPHY(PAG) (PACKAGE) (NEW),1,"24,200","33,000","44,000","55,000","71,500","99,000","137,500"
+6,Cath Lab,OCT (PACKAGE) (NEW),1,"132,000","148,500","165,000","192,500","220,000","264,000","302,500"
+7,Cath Lab,ROTABLATION (PACKAGE) (NEW),1,"104,500","121,000","137,500","154,000","176,000","220,000","264,000"
+8,Cath Lab,EP STUDY (PACKAGE)-2018,1,"45,100","53,900","64,900","78,100","93,500","111,100","133,100"
+9,Cath Lab,3D RF ABLATION (PACKAGE)-2018,2,"297,000","341,000","385,000","419,100","507,100","613,800","742,500"
+10,CARDIOLOGY,CORONARY FLOW ASSESMENT (PACKAGE),1,"39,600","56,800","66,700",In Actuals,"96,400","187,400","236,300"
+11,CARDIOLOGY,PAED ASD DEVICE CLOSURE (PACKAGE),2,"104,500","115,500","121,000",In Actuals,In Actuals,In Actuals,In Actuals
+12,CARDIOLOGY,PAED ATRIAL SEPTOSTOMY (PACKAGE),2,"115,500","121,000","126,500",In Actuals,In Actuals,In Actuals,In Actuals
+13,CARDIOLOGY,PAED CARDIAC CATHETERIZATION (PACKAGE),2,"38,500","49,500","66,000",In Actuals,In Actuals,In Actuals,In Actuals
+14,CARDIOLOGY,PAED EMBOLIZATION (PACKAGE),3,"55,000","60,500","77,000",In Actuals,In Actuals,In Actuals,In Actuals
+15,CARDIOLOGY,PAED PDA DEVICE CLOSURE (PACKAGE),2,"93,500","99,000","110,000",In Actuals,In Actuals,In Actuals,In Actuals
+16,CARDIOLOGY,PAED VSD DEVICE CLOSURE (PACKAGE),3,"110,000","121,000","137,500",In Actuals,In Actuals,In Actuals,In Actuals
+17,CARDIOLOGY,PAED BALLOON VOLVOPLASTY (PACKAGE),2,"115,500","132,000","143,000",In Actuals,In Actuals,In Actuals,In Actuals
+18,CARDIOLOGY,PTCA PLUS IVUS (PACKAGE),3,"192,500","275,000","321,200","367,400","459,800","550,000","642,400"
+19,CARDIOLOGY,MINI EP STUDY (PACKAGE)-2018,1,"38,500","46,200","55,000","66,000","80,300","95,700","107,800"
+20,CARDIOLOGY,RF ABLATION (PACKAGE)-2018,2,"123,200","150,700","183,700","224,400","273,900","334,400","408,100"
+21,Cardiac Thoracic,COMPLEX CONGENITAL HEART SURGERY PACKAGE (9 DAYS),9,"396,000","484,000","605,000",In Actuals,In Actuals,In Actuals,In Actuals
+22,Cardiac Thoracic,COMPLEX CONGENITAL HEART SURGERY PACKAGE (7 DAYS),7,"396,000","484,000","605,000",In Actuals,In Actuals,In Actuals,In Actuals
+23,Cardiac Thoracic,COMPLEX CONGENITAL HEART SURGERY PACKAGE (7 DAYS) (EXCLUDING IMPLANT),7,"396,000","484,000","605,000",In Actuals,In Actuals,In Actuals,In Actuals
+24,Cardiac Thoracic,SIMPLE CONGENITAL HEART SURGERY PACKAGE (3 DAYS) (EXCLUDING IMPLANT),3,"132,000","160,600","201,300",In Actuals,In Actuals,In Actuals,In Actuals
+25,Cardiac Thoracic,SIMPLE CONGENITAL HEART SURGERY PACKAGE (3 DAYS),3,"132,000","160,600","201,300",In Actuals,In Actuals,In Actuals,In Actuals
+26,Cardiac Thoracic,CONGENITAL HEART SURGERY PACKAGE (7 DAYS),7,"191,400","244,200","290,400",In Actuals,In Actuals,In Actuals,In Actuals
+27,Cardiac Thoracic,MICS CABG CATEGORY A (SINGLE VESSEL),8,"330,000","412,500","550,000",In Actuals,In Actuals,In Actuals,In Actuals
+28,Cardiac Thoracic,MICS CABG CATEGORY B (MULTI VESSEL) PACKAGE,8,"440,000","495,000","605,000",In Actuals,In Actuals,In Actuals,In Actuals
+29,Cardiac Thoracic,MICS - OHS PACKAGE,7,"275,000","357,500","495,000",In Actuals,In Actuals,In Actuals,In Actuals
+30,Orthopaedics,TRAUMA PACKAGE GRADE - I,1,"44,000","60,500","82,500",In Actuals,In Actuals,In Actuals,In Actuals
+31,Orthopaedics,TRAUMA PACKAGE GRADE - II,2,"77,000","99,000","126,500",In Actuals,In Actuals,In Actuals,In Actuals
+32,Orthopaedics,TRAUMA PACKAGE GRADE - III,3,"99,000","126,500","159,500",In Actuals,In Actuals,In Actuals,In Actuals
+33,Orthopaedics,TRAUMA PACKAGE GRADE - IV,4,"126,500","159,500","198,000",In Actuals,In Actuals,In Actuals,In Actuals
+34,Orthopaedics,TRAUMA PACKAGE GRADE - V,4,"143,000","181,500","231,000",In Actuals,In Actuals,In Actuals,In Actuals
+35,Orthopaedics,TRAUMA PACKAGE GRADE - VI,5,"187,000","247,500","319,000",In Actuals,In Actuals,In Actuals,In Actuals
+36,Orthopaedics,REGROW (PACKAGE),2,"341,000","356,400","374,000",In Actuals,"396,000",In Actuals,In Actuals
+37,Orthopaedics,REGROW PLUS HTO (PACKAGE),4,"451,000","495,000","544,500",In Actuals,"561,000",In Actuals,In Actuals
+38,Urology,ROBOTIC SURGERY GRADE I (PACKAGE),3,"277,200","316,800","393,800",In Actuals,In Actuals,In Actuals,In Actuals
+39,Urology,ROBOTIC SURGERY GRADE II (PACKAGE),3,"316,800","363,000","449,900",In Actuals,In Actuals,In Actuals,In Actuals
+40,Urology,ROBOTIC SURGERY GRADE III (PACKAGE),3,"369,600","423,500","526,900",In Actuals,In Actuals,In Actuals,In Actuals
+41,Urology,ROBOTIC SURGERY GRADE IV (PACKAGE),3,"409,200","468,600","581,900",In Actuals,In Actuals,In Actuals,In Actuals
+42,Urology,SPECIAL ROBOTIC SURGERY GRADE I (PACKAGE),3,"257,400","290,400","323,400",In Actuals,In Actuals,In Actuals,In Actuals
+43,Urology,SPECIAL ROBOTIC SURGERY GRADE II (PACKAGE),3,"323,400","356,400","389,400",In Actuals,In Actuals,In Actuals,In Actuals
+44,Urology,SPECIAL ROBOTIC SURGERY GRADE III (PACKAGE),3,"356,400","409,200","455,400",In Actuals,In Actuals,In Actuals,In Actuals
+45,Urology,SPECIAL ROBOTIC SURGERY GRADE IV (PACKAGE),3,"422,400","475,200","534,600",In Actuals,In Actuals,In Actuals,In Actuals
+46,Urology,ROBOTIC DONOR NEPHRECTOMY (PACKAGE),3,"165,000","214,500","264,000",In Actuals,In Actuals,In Actuals,In Actuals
+47,Urology,FIBREOPTIC CYSTOSCOPY + BIOPSY (PACKAGE),1,"25,900","30,300","36,900",In Actuals,In Actuals,In Actuals,In Actuals
+48,Urology,HOLMIUM LASER PROSTATE INTERNAL SURGERY STONE/TUMOUR (PACKAGE),2,"104,500","136,400","174,900",In Actuals,In Actuals,In Actuals,In Actuals
+49,Urology,HOLMIUM STRICTURES(BNI) (PACKAGE),2,"58,300","77,000","102,300",In Actuals,In Actuals,In Actuals,In Actuals
+50,Urology,HOLMIUM LASER SURGERY (PACKAGE),2,"110,000","137,500","176,000",In Actuals,In Actuals,In Actuals,In Actuals
+51,Urology,FLEXI URS-INTRARENAL STONE SURGERY (PACKAGE),2,"119,900","150,700","190,300",In Actuals,In Actuals,In Actuals,In Actuals
+52,Urology,FLEXI URS-INTRARENAL TUMOUR SURGERY (PACKAGE),2,"119,900","150,700","190,300",In Actuals,In Actuals,In Actuals,In Actuals
+53,Urology,HOLMIUM LASER PROSTATE (PACKAGE),2,"88,000","115,500","150,700",In Actuals,In Actuals,In Actuals,In Actuals
+54,Urology,HOLMIUM LASER-STONE/TUMOUR (PACKAGE),2,"69,300","91,300","117,700",In Actuals,In Actuals,In Actuals,In Actuals
+55,General Surgery,LIVER TRANSPLANT PKG-DONOR (PACKAGE),10,"660,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+56,General Surgery,LIVER TRANSPLANT PKG- RECIPIENT(NORMAL) (PACKAGE),21,"1,870,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+57,General Surgery,LIVER TRANSPLANT PKG- RECIPIENT(HIGH RISK) (PACKAGE),21,"2,090,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+58,General Surgery,DAYCARE GRADE I (PACKAGE),1,"12,400","12,400","12,400",In Actuals,In Actuals,In Actuals,In Actuals
+59,General Surgery,DAYCARE GRADE II (PACKAGE),1,"18,100","18,100","18,100",In Actuals,In Actuals,In Actuals,In Actuals
+60,General Surgery,DAYCARE GRADE III (PACKAGE),1,"25,400","25,400","25,400",In Actuals,In Actuals,In Actuals,In Actuals
+61,General Surgery,PHACO + MULTIFOCAL,1,"44,000","44,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+62,General Surgery,PHACO + TRABULECTOMY,1,"44,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+63,General Surgery,TRABULECTOMY,1,"24,800",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+64,General Surgery,ROBOTIC CHOLECYSTECTOMY (PACKAGE),2,"154,000","200,200","260,700",In Actuals,In Actuals,In Actuals,In Actuals
+65,General Surgery,ROBOTIC BARIATRIC SURGERY (PACKAGE),5,"440,000","572,000","743,600",In Actuals,In Actuals,In Actuals,In Actuals
+66,General Surgery,MICS 2.2MM PRELOADED LENS PACKAGE,1,"28,600",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+67,General Surgery,Tumour Excision (Non-Malignant) (Package),4,"110,000","143,000","185,900",In Actuals,In Actuals,In Actuals,In Actuals
+68,General Surgery,Excision of Cyst (Package),1,"71,500","93,500","122,100",In Actuals,In Actuals,In Actuals,In Actuals
+69,General Surgery,Varicose Veins (Package),3,"99,000","128,700","167,200",In Actuals,In Actuals,In Actuals,In Actuals
+70,General Surgery,DECEASED LIVER TRANSPLANT PACKAGE (LEVEL-I),21,"2,530,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+71,General Surgery,DECEASED LIVER TRANSPLANT PACKAGE (LEVEL-II),21,"2,750,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+72,Nephrology,PAEDIATRIC RENAL BIOPSY PACKAGE,1,"27,500",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+73,Gastroenterology,GAS-HEMORRHOIDAL ARTERY LIGATION (SMALL) (PACKAGE),1,"33,000","40,700","47,300",In Actuals,"57,200","63,800","69,300"
+74,Gastroenterology,GAS-HEMORRHOIDAL ARTERY LIGATION (LARGE) (PACKAGE),1,"44,000","53,900","62,700",In Actuals,"75,900","85,800","90,200"
+75,Neurology,ACUTE STROKE IV THROMBOLYSIS PACKAGE (PACKAGE),1,"59,400",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+76,Neurology,INTRA ARTERIAL THROMBOLYSIS / IV- IA BRIDGING PKG (PACKAGE),1,"211,200",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+77,Vascular and Non Vascular Intervention,DSA (VASCULAR AND NON-VASCULAR INTERVENTION) PACKAGE,1,"22,000","27,500","34,100","42,900","53,900","67,100","83,600"
+78,Vascular and Non Vascular Intervention,PERMACATH INSERTION (VASCULAR AND NON-VASCULAR INTERVENTION) PACKAGE,1,"60,500","75,900","94,600","96,800","148,500","185,900","232,100"
+79,Vascular and Non Vascular Intervention,PICC LINE (VASCULAR AND NON- VASCULAR INTERVENTION) PACKAGE,1,"38,500","48,400","60,500","66,000","94,600","118,800","148,500"
+80,Vascular and Non Vascular Intervention,HICKMAN LINE INSERTION (VASCULAR AND NON-VASCULAR) PACKAGE,1,"60,500","75,900","94,600","96,800","148,500","185,900","232,100"
+81,Vascular and Non Vascular Intervention,PTBD (SINGLE BILLIARY DRAINAGE VASCULAR AND NON-VASCULAR) PACKAGE,1,"38,500","48,400","60,500","66,000","94,600","118,800","148,500"
+82,Vascular and Non Vascular Intervention,PTBD (DOUBLE BILLIARY DRAINAGE VASCULAR AND NON-VASCULAR) PACKAGE,1,"49,500","61,600","77,000","86,900","121,000","151,800","190,300"
+83,Vascular and Non Vascular Intervention,CATHETER REPOSITIONING (VASCULAR AND NON-VASCULAR) PACKAGE,1,"14,300","17,600","22,000","27,500","34,100","42,900","53,900"
+84,Vascular and Non Vascular Intervention,IVC FILTER (VASCULAR AND NON- VASCULAR INTERVENTION) PACKAGE,2,"77,000","96,800","121,000","129,800","190,300","237,600","297,000"
+85,Vascular and Non Vascular Intervention,VENOPLASTY (VASCULAR AND NON- VASCULAR INTERVENTION) PACKAGE,1,"77,000","96,800","121,000","151,800","190,300","237,600","297,000"
+86,Vascular and Non Vascular Intervention,STENTING (VASCULAR AND NON- VASCULAR INTERVENTION) PACKAGE,2,"93,500","116,600","146,300","181,500","228,800","286,000","357,500"
+87,Vascular and Non Vascular Intervention,MESENTRIC (VASCULAR AND NON- VASCULAR INTERVENTION) PACKAGE,1,"22,000","27,500","34,100","42,900","53,900","67,100","83,600"
+88,Vascular and Non Vascular Intervention,BILLARY STENTING (VASCULAR AND NON-VASCULAR) PACKAGE,3,"93,500","116,600","146,300","162,800","228,800","286,000","357,500"
+89,Vascular and Non Vascular Intervention,R F ABLATION (VASCULAR AND NON- VASCULAR) PACKAGE,2,"93,500","116,600","146,300","151,800","228,800","286,000","357,500"
+90,Vascular and Non Vascular Intervention,MICROWEB ABLATION (VASCULAR AND NON-VASCULAR) PACKAGE,2,"99,000","124,300","155,100","193,600","242,000","302,500","378,400"
+91,Vascular and Non Vascular Intervention,EMBOLIZATION (VASCULAR AND NON- VASCULAR) PACKAGE,2,"88,000","110,000","137,500",In Actuals,"214,500","268,400","335,500"
+92,Vascular and Non Vascular Intervention,NERVE BLOCK (VASCULAR AND NON- VASCULAR) PACKAGE,1,"23,100","28,600","36,300","45,100","56,100","78,100","108,900"
+93,Vascular and Non Vascular Intervention,NERVE ABLATION (VASCULAR AND NON-VASCULAR) PACKAGE,1,"66,000","82,500","103,400","129,800","162,800","227,700","319,000"
+94,Radiology,PERFORATED ENDOVENOUS LASER PACKAGE (UNILATERAL),1,"33,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+95,Radiology,PERFORATED ENDOVENOUS LASER PACKAGE (BILATERAL),1,"60,500",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+96,Radiology,ENDOVENOUS LASER PACKAGE (UNILATERAL),1,"132,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+97,Radiology,ENDOVENOUS LASER PACKAGE (BILATERAL),1,"242,000",In Actuals,In Actuals,In Actuals,In Actuals,In Actuals,In Actuals
+98,Bariatric Surgery,SLEEVE (PACKAGE),3,"302,500","379,500","495,000",In Actuals,In Actuals,In Actuals,In Actuals
+99,Bariatric Surgery,ROUX-EN-Y GASTRIC BYPASS (PACKAGE),3,"385,000","478,500","621,500",In Actuals,In Actuals,In Actuals,In Actuals
+100,Pulmonary Function Lab,BRONCHIAL THERMOPLASTY (SITTING- I) (PACKAGE),1,"275,000","352,000","440,000",In Actuals,In Actuals,In Actuals,In Actuals
+101,Pulmonary Function Lab,BRONCHIAL THERMOPLASTY (SITTING- II) (PACKAGE),1,"110,000","132,000","165,000",In Actuals,In Actuals,In Actuals,In Actuals
+102,Pulmonary Function Lab,BRONCHIAL THERMOPLASTY (SITTING- III) (PACKAGE),1,"110,000","132,000","165,000",In Actuals,In Actuals,In Actuals,In Actuals

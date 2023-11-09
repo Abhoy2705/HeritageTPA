@@ -1,0 +1,2050 @@
+﻿{
+  "DataContractVersion": "1.1",
+  "DocumentTypes": [
+    {
+      "DocumentTypeId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape",
+      "Group": "Room Rent, Consultation Tariff",
+      "Category": "Room Rent, Consultation Tariff",
+      "Name": "Room Rent, Consultation Tariff",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.RoomRent,ConsultationTariff_scrape",
+          "FieldName": "Room Rent, Consultation Tariff",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.RoomRent,ConsultationTariff_scrape.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.RoomRent,ConsultationTariff_scrape.CategoryName",
+              "FieldName": "Category Name",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.RoomRent,ConsultationTariff_scrape.RoomRentTariff",
+              "FieldName": "Room Rent Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "RoomRent,ConsultationTariff.RoomRent,ConsultationTariff.RoomRent,ConsultationTariff_Scrape.RoomRent,ConsultationTariff_scrape.ConsultationTariff",
+              "FieldName": "Consultation Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges",
+      "Group": "OT Tariff",
+      "Category": "OT Tariff",
+      "Name": "OT Tariff",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape",
+          "FieldName": "OT Tariff",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.FromUnit(Minutes)",
+              "FieldName": "From Unit(Minutes)",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.ToUnit(Minutes)",
+              "FieldName": "To Unit(Minutes)",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.Stnd",
+              "FieldName": "Stnd",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.SPvt",
+              "FieldName": "S Pvt",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.Pvt",
+              "FieldName": "Pvt",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges.OTTariff&CathlabCharges_Scrape.MSuite",
+              "FieldName": "M Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff",
+      "Group": "Medical Equipment Tariff",
+      "Category": "Medical Equipment Tariff",
+      "Name": "Medical Equipment Tariff",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape",
+          "FieldName": "Medical Equipment Tariff",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.SlNo",
+              "FieldName": "Sl. No",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.FromUnit",
+              "FieldName": "From Unit",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.ToUnit",
+              "FieldName": "To Unit",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.Rate",
+              "FieldName": "Rate",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff.MedicalEquipmentTariff_Scrape.ChargePolicy",
+              "FieldName": "Charge Policy",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "m"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "PackageTariff.PackageTariff.PackageTariff",
+      "Group": "Package Tariff",
+      "Category": "Package Tariff",
+      "Name": "Package Tariff",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "PackageTariff.PackageTariff.PackageTariff.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff",
+          "FieldName": "Package Tariff",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.SLNO",
+              "FieldName": "SL  NO",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.SERVICENAME",
+              "FieldName": "SERVICE NAME",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.PKGsDays",
+              "FieldName": "PKGs  Days",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.Stnd",
+              "FieldName": " Stnd",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.SP",
+              "FieldName": "SP",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.Pvt",
+              "FieldName": "Pvt",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.PvtDlx",
+              "FieldName": "Pvt Dlx",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.Dlx",
+              "FieldName": "Dlx",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "PackageTariff.PackageTariff.PackageTariff.PackageTariff.MSuite",
+              "FieldName": "M Suite",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2",
+      "Group": "IP Services Tariff 2",
+      "Category": "IP Services Tariff 2",
+      "Name": "IP Services Tariff 2",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape",
+          "FieldName": "IP Services Tariff 2_Scrape",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.SlNo",
+              "FieldName": "Sl No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.Standard",
+              "FieldName": "Standard ",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.SemiPrivate",
+              "FieldName": "Semi  Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.Private",
+              "FieldName": "Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.PrivateDeluxe",
+              "FieldName": "Private  Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.Deluxe",
+              "FieldName": "Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTariff2.IPServicesTariff2.IPServicesTariff2.IPServicesTariff2_Scrape.MaharajaSuite",
+              "FieldName": "Maharaja  Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3",
+      "Group": "OP Services Tariff 3",
+      "Category": "OP Services Tariff 3",
+      "Name": "OP Services Tariff 3",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3",
+          "FieldName": "OP Services Tariff 3",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.SlNo",
+              "FieldName": "Sl No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.ServiceType",
+              "FieldName": "Service Type ",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPServicesTariff3.OPDTariff",
+              "FieldName": "OPD Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "3"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2",
+      "Group": "OP Services Tariff 2",
+      "Category": "OP Services Tariff 2",
+      "Name": "OP Services Tariff 2",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2",
+          "FieldName": "OP Services Tariff 2",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.Department",
+              "FieldName": "Department ",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.ServiceName",
+              "FieldName": "Service Name ",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPServicesTariff2.OPDTariff",
+              "FieldName": "OPD Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "2"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1",
+      "Group": "IP Services Tarif 1_1",
+      "Category": "IP Services Tarif 1_1",
+      "Name": "IP Services Tarif 1_1",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1",
+          "FieldName": "IP Services Tarif 1_1",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.SlNo",
+              "FieldName": "Sl No",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.ServiceType",
+              "FieldName": "Service Type ",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.Standard",
+              "FieldName": "Standard",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.SemiPrivate",
+              "FieldName": "Semi  Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.Private",
+              "FieldName": "Private ",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.PrivateDeluxe",
+              "FieldName": "Private  Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.Deluxe",
+              "FieldName": "Deluxe ",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.IPServicesTarif1_1.MaharajaSuite",
+              "FieldName": "Maharaja  Suite ",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2",
+      "Group": "IP Services Tarif 1_2",
+      "Category": "IP Services Tarif 1_2",
+      "Name": "IP Services Tarif 1_2",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2",
+          "FieldName": "IP Services Tarif 1_2",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.SlNo",
+              "FieldName": "Sl No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.Standard",
+              "FieldName": " Standard",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.SemiPrivate",
+              "FieldName": "Semi  Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.Private",
+              "FieldName": "Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.PrivateDeluxe",
+              "FieldName": "Private  Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.Deluxe",
+              "FieldName": "Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.IPServicesTarif1_2.MaharajaSuite",
+              "FieldName": "Maharaja  Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3",
+      "Group": "IP Services Tarif 1_3",
+      "Category": "IP Services Tarif 1_3",
+      "Name": "IP Services Tarif 1_3",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3",
+          "FieldName": "IP Services Tarif 1_3",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.SlNo",
+              "FieldName": "Sl No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.ServiceType",
+              "FieldName": "Service Type ",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.Standard",
+              "FieldName": " Standard",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.SemiPrivate",
+              "FieldName": "Semi  Private ",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.Private",
+              "FieldName": "Private",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.PrivateDeluxe",
+              "FieldName": "Private  Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.Deluxe",
+              "FieldName": "Deluxe",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.Suite",
+              "FieldName": "Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.IPServicesTarif1_3.MaharajaSuite",
+              "FieldName": "Maharaja  Suite",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1",
+      "Group": "OP Services Tariff 1_1",
+      "Category": "OP Services Tariff 1_1",
+      "Name": "OP Services Tariff 1_1",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1",
+          "FieldName": "OP Services Tariff 1_1",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPServicesTariff1_1.OPDTariff",
+              "FieldName": "OPD Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2",
+      "Group": "OP Services Tariff 1_2",
+      "Category": "OP Services Tariff 1_2",
+      "Name": "OP Services Tariff 1_2",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2",
+          "FieldName": "OP Services Tariff 1_2",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPServicesTariff1_2.OPDTariff",
+              "FieldName": "OPD Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3",
+      "Group": "OP Services Tariff 1_3",
+      "Category": "OP Services Tariff 1_3",
+      "Name": "OP Services Tariff 1_3",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3",
+          "FieldName": "OP Services Tariff 1_3",
+          "IsMultiValue": false,
+          "Type": "Table",
+          "DeriveFieldsFormat": "",
+          "Components": [
+            {
+              "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.SlNo",
+              "FieldName": "Sl. No.",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.ServiceType",
+              "FieldName": "Service Type",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.Department",
+              "FieldName": "Department",
+              "IsMultiValue": false,
+              "Type": "Name",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.ServiceName",
+              "FieldName": "Service Name",
+              "IsMultiValue": false,
+              "Type": "Text",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            },
+            {
+              "FieldId": "OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPServicesTariff1_3.OPDTariff",
+              "FieldName": "OPD Tariff",
+              "IsMultiValue": false,
+              "Type": "Number",
+              "DeriveFieldsFormat": "",
+              "Components": [],
+              "SetValues": [],
+              "Metadata": [],
+              "RuleSet": null,
+              "DefaultValue": ""
+            }
+          ],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "Invoice1.Invoice1.Invoice1",
+      "Group": "Invoice 1",
+      "Category": "Invoice 1",
+      "Name": "Invoice 1",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "Invoice1.Invoice1.Invoice1.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.BillNo",
+          "FieldName": "Bill No",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "l"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.NameofthePatient",
+          "FieldName": "Name of the Patient",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fa6616"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.Department",
+          "FieldName": "Department",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8a97a0"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.ServiceName",
+          "FieldName": "Service Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.ServiceAmountFirst",
+          "FieldName": "Service Amount",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#ea57ba"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "v"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.ServiceTotalAmount",
+          "FieldName": "Service Total Amount",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#5cd483"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "c"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.PolicyNumber",
+          "FieldName": "Policy Number",
+          "IsMultiValue": false,
+          "Type": "Number",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#00accd"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "y"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.ClaimNumber",
+          "FieldName": "Claim Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#4285ca"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "m"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        },
+        {
+          "FieldId": "Invoice1.Invoice1.Invoice1.HospitalName",
+          "FieldName": "Hospital Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#cf9a38"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "h"
+            }
+          ],
+          "RuleSet": null,
+          "DefaultValue": ""
+        }
+      ]
+    }
+  ],
+  "Groups": [
+    {
+      "Name": "Room Rent, Consultation Tariff",
+      "Categories": [
+        "Room Rent, Consultation Tariff"
+      ]
+    },
+    {
+      "Name": "OT Tariff",
+      "Categories": [
+        "OT Tariff"
+      ]
+    },
+    {
+      "Name": "Medical Equipment Tariff",
+      "Categories": [
+        "Medical Equipment Tariff"
+      ]
+    },
+    {
+      "Name": "Package Tariff",
+      "Categories": [
+        "Package Tariff"
+      ]
+    },
+    {
+      "Name": "IP Services Tariff 2",
+      "Categories": [
+        "IP Services Tariff 2"
+      ]
+    },
+    {
+      "Name": "OP Services Tariff 3",
+      "Categories": [
+        "OP Services Tariff 3"
+      ]
+    },
+    {
+      "Name": "OP Services Tariff 2",
+      "Categories": [
+        "OP Services Tariff 2"
+      ]
+    },
+    {
+      "Name": "IP Services Tarif 1_1",
+      "Categories": [
+        "IP Services Tarif 1_1"
+      ]
+    },
+    {
+      "Name": "IP Services Tarif 1_2",
+      "Categories": [
+        "IP Services Tarif 1_2"
+      ]
+    },
+    {
+      "Name": "IP Services Tarif 1_3",
+      "Categories": [
+        "IP Services Tarif 1_3"
+      ]
+    },
+    {
+      "Name": "OP Services Tariff 1_1",
+      "Categories": [
+        "OP Services Tariff 1_1"
+      ]
+    },
+    {
+      "Name": "OP Services Tariff 1_2",
+      "Categories": [
+        "OP Services Tariff 1_2"
+      ]
+    },
+    {
+      "Name": "OP Services Tariff 1_3",
+      "Categories": [
+        "OP Services Tariff 1_3"
+      ]
+    },
+    {
+      "Name": "Invoice 1",
+      "Categories": [
+        "Invoice 1"
+      ]
+    }
+  ],
+  "SupportedLanguages": [
+    {
+      "Name": "Undetermined Language",
+      "Code": "und"
+    },
+    {
+      "Name": "Bulgarian",
+      "Code": "bul"
+    },
+    {
+      "Name": "Cantonese",
+      "Code": "yue"
+    },
+    {
+      "Name": "Danish",
+      "Code": "dan"
+    },
+    {
+      "Name": "Dutch",
+      "Code": "nld"
+    },
+    {
+      "Name": "English",
+      "Code": "eng"
+    },
+    {
+      "Name": "French",
+      "Code": "fra"
+    },
+    {
+      "Name": "Georgian",
+      "Code": "kat"
+    },
+    {
+      "Name": "German",
+      "Code": "deu"
+    },
+    {
+      "Name": "Greek",
+      "Code": "ell"
+    },
+    {
+      "Name": "Hebrew",
+      "Code": "heb"
+    },
+    {
+      "Name": "Hindi",
+      "Code": "hin"
+    },
+    {
+      "Name": "Italian",
+      "Code": "ita"
+    },
+    {
+      "Name": "Japanese",
+      "Code": "jpn"
+    },
+    {
+      "Name": "Korean",
+      "Code": "kor"
+    },
+    {
+      "Name": "Macedonian",
+      "Code": "mkd"
+    },
+    {
+      "Name": "Mandarin",
+      "Code": "zho"
+    },
+    {
+      "Name": "Marathi",
+      "Code": "mar"
+    },
+    {
+      "Name": "Norwegian",
+      "Code": "nor"
+    },
+    {
+      "Name": "Polish",
+      "Code": "pol"
+    },
+    {
+      "Name": "Portuguese",
+      "Code": "por"
+    },
+    {
+      "Name": "Romanian",
+      "Code": "ron"
+    },
+    {
+      "Name": "Russian",
+      "Code": "rus"
+    },
+    {
+      "Name": "Serbian",
+      "Code": "srp"
+    },
+    {
+      "Name": "Spanish",
+      "Code": "spa"
+    },
+    {
+      "Name": "Swedish",
+      "Code": "swe"
+    },
+    {
+      "Name": "Telugu",
+      "Code": "tel"
+    },
+    {
+      "Name": "Turkish",
+      "Code": "tur"
+    }
+  ]
+}
